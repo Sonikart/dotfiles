@@ -18,7 +18,7 @@ $servers = array(
         'ip' => '127.0.0.1',
         'port' => 8097,
         'info' => 'Informations',
-        'purpose' => 'No purpose'
+        'purpose' => 'No purposes'
     ),
     
 );
