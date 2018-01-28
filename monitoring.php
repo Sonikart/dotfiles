@@ -3,21 +3,21 @@
 $title = "Monitoring v1"; 
 $servers = array(
     'Teufeurs.eu' => array(
-        'ip' => '51.254.247.87',
+        'ip' => '127.0.0.1',
         'port' => 80,
-        'info' => 'http://teufeurs.eu',
+        'info' => 'Information',
         'purpose' => 'No Purpose'
     ),
     'La conciergerie du geek' => array(
-        'ip' => '185.216.27.195',
-        'port' => 80,
-        'info' => 'laconciergeriedugeek',
+        'ip' => '127.0.0.1',
+        'port' => 22,
+        'info' => 'Informations',
         'purpose' => 'No purpose'
     ),
     'Bot discord' => array(
-        'ip' => '185.216.27.195',
+        'ip' => '127.0.0.1',
         'port' => 8097,
-        'info' => 'Bot discord',
+        'info' => 'Informations',
         'purpose' => 'No purpose'
     ),
     
