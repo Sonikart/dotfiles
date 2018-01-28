@@ -19,9 +19,4 @@ UTILISATION
 
 LICENSE
 ====================
-<<<<<<< HEAD
-
 Free download
-=======
-Private Access
->>>>>>> 41f99da8800a52f3128bad3aa47d86d2b76447e0
