@@ -9,10 +9,10 @@ UTILISATION
 
 
 ```PHP
-***Le titre de votre site***' => array(
-        'ip' => '***Remplacer par une adresse ip(127.0.0.1)***',
-        'port' => ***Remplacer par le port que vous voulez ecouter(80,22,443...)***,
-        'info' => 'Information',
+'Google' => array(
+        'ip' => '8.8.8.8',
+        'port' => 80,
+        'info' => 'Test du serveur de google',
         'purpose' => 'No Purpose'
     ),
 ```
