@@ -1,1 +1,8 @@
-# Utilisation d'un monitoring en PHP : monitoring.php
+APK Resource Toolkit
+====================
+
+Utilisation d'un petit script PHP/ Pour le monitoring.
+
+LICENSE
+====================
+Private Access
